@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shaown Chowdhury.</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+![logo](https://github.com/ShaownChowdhury/ShaownChowdhury/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
+<h1 align="center">Hi 👋, I'm Shaown Chowdhury </h1>
+<h3 align="center">A passionate frontend developer from Bangladesh </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -10,8 +11,6 @@
 - 🔭 I’m currently working on **backend.**
 
 - 🌱 I’m currently learning **PHP and Laravel.**
-
-- 👯 I’m looking to collaborate on **github.**
 
 - 💬 Ask me about **web development.**
 
