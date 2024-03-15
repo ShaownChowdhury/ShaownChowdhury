@@ -1,4 +1,4 @@
-![logo](https://github.com/ShaownChowdhury/ShaownChowdhury/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
+![logo](https://github.com/ShaownChowdhury/ShaownChowdhury/blob/main/Black Minimalist Corporate Professional Profile LinkedIn Banner (2).png)
 
 <h1 align="center">Hi👋 I'm Shaown Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
